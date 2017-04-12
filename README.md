@@ -5,6 +5,7 @@ https://www.devart.com/dotconnect/postgresql/docs/EFCore-Database-First.html
 使用Nuget,引用以下包
 
 Install-Package Microsoft.EntityFrameworkCore.Tools
+
 Install-Package Microsoft.EntityFrameworkCore.SqlServer.Design
 
 ## 在Nuget包管理器控制台执行下面命令,生成指定数据库下所有表的实体类
